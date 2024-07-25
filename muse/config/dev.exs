@@ -3,8 +3,8 @@ import Config
 # Configure your database
 config :muse, Muse.Repo,
   username: "postgres",
-  password: "postgres",
-  hostname: "localhost",
+  password: "Db5$Ades10",
+  hostname: "127.0.0.1",
   database: "muse_dev",
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
